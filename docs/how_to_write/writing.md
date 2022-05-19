@@ -7,8 +7,8 @@ description: Here are concrete steps for producing a postmortem document. You wi
 Below are the steps involved in performing a postmortem at a high level. Below are the details of how to perform each step.
 
 1. Create a new postmortem for the incident.
-1. Populate the incident timeline with important changes in status/impact and key actions taken by responders.
 1. Schedule a postmortem meeting within the required timeframe for all required and optional attendees.
+1. Populate the incident timeline with important changes in status/impact and key actions taken by responders.
      - For each item in the timeline, include a metric or some third-party page where the data came from.
 1. Analyze the incident.
     - Identify superficial and root causes.
